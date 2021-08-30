@@ -1,0 +1,13 @@
+a.none-link {
+	color: gray;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+div.blackboard {
+	background-color: #def;
+}
+
+.working {
+	display: none;
+}
